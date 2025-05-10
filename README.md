@@ -1,5 +1,5 @@
 # Food Self-Order Kiosk
-Welcome to my project to build a Self-Order Kiosk like Macdonalds. In this course, you will learn the essential tools and skills to a web application for Self-Order Kiosk using React, Context API, and Material UI in the frontend and Node and MongoDB in the backend.
+Welcome to my project to build a Self-Order Kiosk like Macdonalds.You will learn the essential tools and skills to a web application for Self-Order Kiosk using React, Context API, and Material UI in the frontend and Node and MongoDB in the backend.
 
 My name is Sujeet.
 
@@ -23,7 +23,7 @@ Knowing React basics like component, state and props are the only requirements.
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/self-order-kiosk
+$ git clone git@github.com:sujeetrajbhar681/self-order-kiosk
 $ cd self-order-kiosk
 ```
 
